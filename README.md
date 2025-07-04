@@ -23,6 +23,13 @@ Microsoft Excel:
 - Standardized formats for prices and percentages
 - Created calculated columns for metrics like potential revenue, rating × review count, etc.
 - Binned products into price ranges using conditional logic
+  ### Steps Used During Analysis
+1. Loaded the cleaned dataset into Excel
+2. Created calculated fields (e.g., actual revenue, price buckets)
+3. Used pivot tables to summarize by category, rating, and discount
+4. Applied filters and slicers for dynamic analysis
+5. Built charts (bar, pie, column) for key metrics
+6. Designed a dashboard with KPIs, visuals, and category breakdowns
 
   ### Analysis
   https://github.com/Brenda147/DSA-project-/blob/main/Amazon%20case%20study.xlsx
@@ -75,7 +82,7 @@ A visual dashboard was built in Excel with the following:
 ➢ Interactive charts (category comparisons, discount distribution, rating histograms)
 ➢ Slicers for category filtering
 ➢ Product highlights section
-Conclusion & Recommendations for Stakeholders
+### Conclusion & Recommendations for Stakeholders
 ➢ Focus marketing efforts on high-performing categories: Electronics and Books
 ➢ Monitor and possibly relist low-rated products (<3 stars)
 ➢ Leverage discounts strategically, as they don’t always improve ratings
