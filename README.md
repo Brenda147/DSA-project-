@@ -24,8 +24,8 @@ Microsoft Excel:
 - Created calculated columns for metrics like potential revenue, rating × review count, etc.
 - Binned products into price ranges using conditional logic
 
-  ###
-  Amazon case study.xlsx
+  ### Analysis
+  https://github.com/Brenda147/DSA-project-/blob/main/Amazon%20case%20study.xlsx
 
   ### Business Insights Questions & Answers
 1. What is the average discount percentage by product category?
